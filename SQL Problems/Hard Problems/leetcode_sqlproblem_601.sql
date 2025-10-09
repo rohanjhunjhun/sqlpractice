@@ -1,7 +1,7 @@
 -- Problem: 601. Human Traffic of Stadium
 -- Link: https://leetcode.com/problems/human-traffic-of-stadium/description
 -- Difficulty: Hard
--- Concepts: Window Functions, Case Statements
+-- Concepts: Window Functions, Case Statements , subqueries , aggregations
 
 /* Approach:
    Use CASE to create a True/False evaluation for dates  with >100 people

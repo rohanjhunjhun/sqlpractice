@@ -9,7 +9,6 @@
    Filter out the banned users and the dates outside the range 2013-10-01 to 2013-10-03
 */
 
--- Write your SQL query below
 
 # Write your MySQL query statement below
 select request_at as Day,

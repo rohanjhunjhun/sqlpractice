@@ -1,7 +1,7 @@
 -- Problem: 185. Department Top Three Salaries
 -- Link: https://leetcode.com/problems/department-top-three-salaries/description/
 -- Difficulty: Hard
--- Concepts: Window Functions, Aggregations, Joins
+-- Concepts: Window Functions, Aggregations, Joins , subqueries
 
 /* Approach:
    Use DENSE_RANK() to rank employees by salary per department, 
