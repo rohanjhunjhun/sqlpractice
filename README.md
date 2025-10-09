@@ -1,2 +1,2 @@
 # sqlpractice
-HARD level SQL problems from leetcode
+Contains code and explanation for the SQL problems I have attempted
