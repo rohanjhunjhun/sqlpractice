@@ -7,9 +7,6 @@ This repository contains my solutions to LeetCode SQL problems — each one docu
 ## 🗂️ Folder Structure
 
 - `problems/` → Individual LeetCode problems with SQL queries and explanations.
-- `tags/` → Concept-wise notes linking to problems (e.g., window functions, joins, subqueries).
-- `notes/` → General tips and reusable SQL patterns.
-
 ---
 
 ## 🧩 Problem Format
