@@ -1,6 +1,6 @@
 # SQL Practice Repository
 
-This repository is a collection of SQL problems and solutions where I document my learnings and practice SQL concepts. The purpose of this repository is to enhance my understanding of SQL by solving problems of varying difficulty levels, ranging from Easy to Hard.
+This repository is a collection of SQL problems and solutions where I document my revision and practice SQL concepts. The purpose of this repository is to revise SQL anf git on a granular level as well as showcase my learnings by solving problems of varying difficulty levels, ranging from Easy to Hard.
 
 ## Structure
 - **Easy Problems**: Beginner-friendly problems to build foundational skills.
